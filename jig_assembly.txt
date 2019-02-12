@@ -8,17 +8,17 @@ For example, the low quality parts can be printed with the Shapeways versatile p
 
 The components are:
  
-Base (low quality) - the base everything else sits on. Shared bwteeen the rat and the mouse design. All other componets differ between the two variants.
+1 -Base (low quality) - the base everything else sits on. Shared bwteeen the rat and the mouse design. All other componets differ between the two variants.
 
-Outer drive holder (medium quality*) - connects to the base and holds the drive holder.
+2 -Outer drive holder (medium quality*) - connects to the base and holds the drive holder.
 
-Inner drive holder (medium quality*) - sits inside the outer drive holder and directly holds the drive body, allowing it to rotate around its major axis.
+3 -Inner drive holder (medium quality*) - sits inside the outer drive holder and directly holds the drive body, allowing it to rotate around its major axis.
 
-Inner EIB holder (medium quality*) - holds the EIB, allowing it to rotate. This part may have to be customized to fit the desired type of EIB.
+4 -Inner EIB holder (medium quality*) - holds the EIB, allowing it to rotate. This part may have to be customized to fit the desired type of EIB.
 
-Outer EIB holder (medium quality*) - Holds the inner EIB holder.
+5 -Outer EIB holder (medium quality*) - Holds the inner EIB holder.
 
-Manual adjustment knob (low quality) to amke adjusting the long screw easier - hand-adjustible screws can be used alternatively, or tools can be used ot adjust mechnaism distance.
+6- Manual adjustment knob (low quality) to make adjusting the long screw easier - hand-adjustible screws can be used alternatively, or tools can be used ot adjust mechnaism distance.
 
 * for the rat variant, all parts can be printed with a lower quality process in some cases.
 
